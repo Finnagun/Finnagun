@@ -39,5 +39,6 @@ Busco minha primeira oportunidade na área de dados (estágio ou júnior), onde 
 
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Finnagun&show_icons=true&theme=merko&include_all_commits=true&locale=pt-br&cache_seconds=1" />
+  <br/>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Finnagun&theme=merko&layout=compact&custom_title=Linguagens&langs_count=9&cache_seconds=1" />
 </div>
