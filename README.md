@@ -13,7 +13,7 @@ Aqui no GitHub compartilho projetos, estudos e análises que fazem parte da minh
 ## 🎓 Formação
 
 - 📊 Pós-graduação em Data Analytics — FIAP  
-- 🏥 Fisioterapia — com especialização em UTI / Fisioterapia Intensivista
+- 🏥 Fisioterapia — com especialização em UTI / Fisioterapia Intensivista - USP
 
 ## 📈 Objetivo
 
