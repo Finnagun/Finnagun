@@ -17,7 +17,7 @@ Aqui no GitHub compartilho projetos, estudos e análises que fazem parte da minh
 
 ## 📈 Objetivo
 
-Busco minha primeira oportunidade na área de dados (estágio ou júnior), onde eu possa aplicar minha capacidade analítica, meu conhecimento técnico em crescimento e trazer a visão diferenciada de quem viveu anos interpretando dados críticos na saúde.
+Busco minha primeira oportunidade na área de dados, onde eu possa aplicar minha capacidade analítica, meu conhecimento técnico em crescimento e trazer a visão diferenciada de quem viveu anos interpretando dados críticos na saúde.
 
 ## 📫 Contato
 
