@@ -38,6 +38,6 @@ Busco minha primeira oportunidade na área de dados, onde eu possa aplicar minha
 ### 📊 Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Finnagun&show_icons=true&theme=merko&include_all_commits=true&locale=pt-br&cache_seconds=1800" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Finnagun&theme=merko&locale=pt-br&cache_seconds=1800&layout=compact&langs_count=5" alt="Top Langs" />
+  <img height="195" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Finnagun&show_icons=true&theme=merko&include_all_commits=true&locale=pt-br&cache_seconds=1800" alt="GitHub Stats" />
+  <img height="195" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Finnagun&theme=merko&locale=pt-br&cache_seconds=1800" alt="Top Langs" />
 </div>
