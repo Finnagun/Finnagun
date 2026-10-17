@@ -6,7 +6,7 @@
 
 ## 🧠 Sobre mim
 
-Fisioterapeuta intensivista com 10 anos de experiência no ambiente hospitalar, em transição para a área de Tecnologia e Dados. Ao longo da minha trajetória na saúde, desenvolvi uma visão analítica apurada, capacidade de tomar decisões baseadas em evidências e habilidade para interpretar dados em cenários de alta complexidade — competências que agora aplico no universo de Data Analytics.
+Fisioterapeuta intensivista atuante desde 2017 no ambiente hospitalar, em transição para a área de Tecnologia e Dados. Ao longo da minha trajetória na saúde, desenvolvi uma visão analítica apurada, capacidade de tomar decisões baseadas em evidências e habilidade para interpretar dados em cenários de alta complexidade — competências que agora aplico no universo de Data Analytics.
 
 Aqui no GitHub compartilho projetos, estudos e análises que fazem parte da minha evolução na área de dados.
 
