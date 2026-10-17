@@ -10,6 +10,8 @@ Fisioterapeuta intensivista atuante desde 2017 no ambiente hospitalar, em transi
 
 Aqui no GitHub compartilho projetos, estudos e análises que fazem parte da minha evolução na área de dados.
 
+Portifólio: https://finnagun.github.io/
+
 ## 🎓 Formação
 
 - 📊 Pós-graduação em Data Analytics — FIAP
